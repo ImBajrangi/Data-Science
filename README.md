@@ -3,7 +3,7 @@
 
 **ImBajrangi/Harsh** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some Basic Info of My Intro To Let you Know Me:
 
 - 🔭 I’m currently working on My Own Projects Named as Vrindopnishad. 
 - 🌱 I’m currently learning Python, Machine-Learning, Data-Science, Web Development, Full Stack Development.
